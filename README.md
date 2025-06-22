@@ -78,5 +78,3 @@ A curated, categorized, and alphabetized list of OSINT tools and resources with 
 - [USA Public Data Search](https://usa-official.com/index.php)
 
 </details>
-
-... (Content truncated for space)
